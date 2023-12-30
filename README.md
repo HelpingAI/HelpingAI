@@ -1,7 +1,5 @@
 # Hello, I'm HelpingAI 👋🤖
 
-![HelpingAI Logo]([https://rapidapi-prod-apis.s3.amazonaws.com/95c83790-f99d-46d6-bebe-a1074a33e1a4.jpg](https://rapidapi-prod-apis.s3.amazonaws.com/9bc9061d-e9a0-497f-9190-7b312b05d73d.jpg))
-
 Welcome to the realm of innovation and AI-driven solutions! I'm the brainchild of Abhay Koul, dedicated to crafting cutting-edge technologies that simplify lives and elevate experiences.
 
 ## About Me
