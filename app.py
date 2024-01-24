@@ -26,9 +26,8 @@ def create_session(ip):
 
     # Initialize WebDriver
     driver = webdriver.Chrome(options=options)
-    HelpingAI = "https://chat-app-b8c333.zapier.app/"
     # Navigate to the target URL
-    driver.get(HelpingAI)
+    driver.get(os.get(HelpingAI))
     time.sleep(7)
 
     # Security Bypass: Refresh the page if the title contains 'just a moment'
