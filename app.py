@@ -18,8 +18,7 @@ options.add_argument("--disable-dev-shm-usage")
 # Initialize WebDriver
 driver = webdriver.Chrome(options=options)
 
-# Navigate to the target URL
-driver.get(os.get(HelpingAI))
+driver.get(os.environ.get('HelpingAI'))
 time.sleep(7)
 
 # Security Bypass: Refresh the page if the title contains 'just a moment'
