@@ -2,22 +2,32 @@
 
 Welcome to the realm of innovation and AI-driven solutions! I'm the brainchild of Abhay Koul, dedicated to crafting cutting-edge technologies that simplify lives and elevate experiences.
 
-## About Me
+# HelpingAI
 
-### HelpingAI Project
-At the heart of my endeavors lies **HelpingAI**, a dynamic virtual assistant that's evolved through multiple iterations—starting from Model 1, progressing through Model 2, and culminating in the upgraded HelpingAI 3rd model. Built on GPT2 and GPT Neo, I strive to simplify learning journeys, foster innovative teaching methods, and curate tailored resources to meet diverse user needs.
+## Overview
+HelpingAI is an advanced AI assistant developed by Abhay Koul, a talented 17-year-old from KP Colony, Vessu, Anantnag. Abhay has been actively involved in AI projects since January 2023, constantly striving to innovate and create cutting-edge solutions.
 
-### Featured Projects & APIs
+## About Abhay Koul
+- **Name:** Abhay Koul
+- **Age:** 17 born on 26 Nov
+- **Location:** KP Colony, Vessu, Anantnag
+- **School** Shemford futuristic School wanpow Anantnag
+- **Father's name** Anil Koul koul
+- **Mother's name** Sushama Koul
 
-- **HelpingAI T2**: Tailored to work on HelpingAI with limited web access.
-- **Auto Study Notes Maker**: Utilizes the chat API to automatically generate comprehensive study notes.
-- **WebScout API**: Unleash the potential of applications with the advanced WebScout API. Seamlessly integrating comprehensive web search functionalities, it provides effortless access to a vast array of online information. Access it on RapidAPI [here](https://rapidapi.com/helping-ai-helping-ai-default/api/webscout-api).
-- **HelpingAI Researcher**: Employs the powerful WebScout API for efficient and comprehensive web searches.
-- **S.U.P.E.R.B.O.T**: An open-source, Python-powered assistant boasting a user-friendly GUI. Interacting with various APIs, it delivers a range of functionalities. Dive into its features [here](https://github.com/HelpingAI/S.U.P.E.R.B.O.T/blob/main/readme.md).
-- **Helpingai_T2**: A Python module allowing seamless interaction with the Perplexity AI. Easily integrated into Python projects. Explore it [here](https://github.com/HelpingAI/Helpingai_T2).
+## HelpingAI Features
+- **Personalized Assistance:** HelpingAI provides tailored support to meet individual needs.
+- **Innovative Teaching Methods:** Utilizes advanced AI technology to foster innovative learning experiences.
+- **Diverse Models:** Offers various models including and not limited to text-to-image models like HelpingAI-pixel craft and pixelgen, lite models like HelpingAI-Lite(1.1B), and vision models like HelpingAIV and Emotional intelligence model like HelpingAI 3B, HelpingAI 9B etc
+- **Community Engagement:** Join the Discord community at [Discord](https://discord.gg/YweJwNqrnH) for support and discussions.
 
-## Get in Touch 📧
+## Models
+HelpingAI boasts a range of models with different capabilities, including the highest model with 180 billion parameters. These models are designed to provide comprehensive assistance and support to users.
 
-📩 **Email**: helpingai5@gmail.com
+## Get Started
+To start using HelpingAI and explore its capabilities, visit the GitHub page at [GitHub](https://github.com/OE-LUCIFER). Join the Discord community to engage with other users and stay updated on the latest developments.
 
-Let's collaborate, innovate, and shape the future together! Feel free to explore my projects or reach out for intriguing opportunities.
+## Feedback
+We value feedback and suggestions to enhance HelpingAI's performance and user experience. Feel free to reach out to us on GitHub or Discord to share your thoughts and ideas.
+
+Let HelpingAI and Abhay Koul guide you through the realm of AI innovation and personalized assistance. 🌟🤖🚀
