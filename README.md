@@ -5,7 +5,7 @@ Welcome to the realm of innovation and AI-driven solutions! I'm the brainchild o
 # HelpingAI
 
 ## Overview
-HelpingAI is an advanced AI assistant developed by Abhay Koul, a talented 17-year-old from KP Colony, Vessu, Anantnag. Abhay has been actively involved in AI projects since January 2023, constantly striving to innovate and create cutting-edge solutions.
+HelpingAI is an advanced AI model developed by Abhay Koul, a talented 17-year-old (in 2024) from KP Colony, Vessu, Anantnag. Abhay has been actively involved in AI projects since January 2023, constantly striving to innovate and create cutting-edge solutions.
 
 ## About Abhay Koul
 - **Name:** Abhay Koul
