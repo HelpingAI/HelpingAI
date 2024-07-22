@@ -18,7 +18,7 @@ HelpingAI is an advanced AI model developed by Abhay Koul, a talented 17-year-ol
 ## HelpingAI Features
 - **Personalized Assistance:** HelpingAI provides tailored support to meet individual needs.
 - **Innovative Teaching Methods:** Utilizes advanced AI technology to foster innovative learning experiences.
-- **Diverse Models:** Offers various models including and not limited to text-to-image models like HelpingAI-pixel craft and pixelgen, lite models like HelpingAI-Lite(1.1B), and vision models like HelpingAIV and Emotional intelligence model like HelpingAI 3B, HelpingAI 9B etc
+- **Diverse Models:** Offers various models including and not limited to text-to-image models like HelpingAI-pixel craft and pixelgen, lite models like HelpingAI-Lite(1.1B), HelpingAI-flash, and vision models like HelpingAIV and Emotional intelligence model like HelpingAI 3B, HelpingAI 9B, HelpingAI-15B, HelpingAI-flash etc
 - **Community Engagement:** Join the Discord community at [Discord](https://discord.gg/YweJwNqrnH) for support and discussions.
 
 ## Models
